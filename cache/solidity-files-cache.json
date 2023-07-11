@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\asada\\Downloads\\ETH-AVAX-Intermediate-Module-3-main\\contracts\\myToken.sol": {
+      "lastModificationDate": 1689002239670,
+      "contentHash": "bbce116bb930a635da01f21c4411d204",
+      "sourceName": "contracts/myToken.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
